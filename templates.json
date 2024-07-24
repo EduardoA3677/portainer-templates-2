@@ -4788,7 +4788,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "stacks/immich/docker-compose.yml",
-        "url": "https://github.com/shmolf/portainer-templates"
+        "url": "https://github.com/EduardoA3677/portainer-templates"
       }
     },
     {
